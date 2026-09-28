@@ -65,7 +65,7 @@ export default function Footer() {
               <div className="space-y-2">
                 <div className="inline-flex items-center gap-1.5 rounded-full border border-gold-400/30 bg-gold-400/10 px-3 py-0.5 text-[11px] font-bold uppercase tracking-widest text-gold-300">
                   <span>✨</span>
-                  <span>WEBSITE & APP DEVELOPER • VIKASH PATEL</span>
+                  <span>WEBSITE & APP DEVELOPER • MR.VIKASH PATEL</span>
                 </div>
 
                 <h3 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-cream-50 leading-tight">
@@ -73,7 +73,7 @@ export default function Footer() {
                 </h3>
 
                 <p className="text-xs sm:text-sm text-cream-200/80 max-w-2xl leading-relaxed">
-                  Websites • Custom Apps • EHR • ERP • SaaS Solutions — crafted by <span className="text-gold-200 font-semibold">Vikash Patel</span>
+                  Websites • Custom Apps • EHR • ERP • SaaS Solutions — crafted by <span className="text-gold-200 font-semibold">MR.Vikash Patel</span>
                 </p>
 
                 <div className="text-xs text-cream-200/90 flex items-center justify-center sm:justify-start gap-1.5 pt-0.5 font-medium">
@@ -214,11 +214,7 @@ export default function Footer() {
         {/* Copyright & Developer Credit */}
         <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-cream-200/60">
           <div>
-            © 2026 Shreeji Dental Hospital • Developed by <a href="tel:+919509868384" className="text-gold-300 font-semibold hover:underline">Vikash Patel</a> (+91 9509868384)
-          </div>
-          
-          <div className="flex items-center gap-1 font-hindi text-gold-300/90 text-sm">
-            <span>स्व. श्री डूंगर राम जी पटेल की पावन स्मृति में</span>
+            © 2026 Shreeji Dental Hospital • Developed by <a href="tel:+919509868384" className="text-gold-300 font-semibold hover:underline">MR.Vikash Patel</a> (+91 9509868384)
           </div>
 
           <button
